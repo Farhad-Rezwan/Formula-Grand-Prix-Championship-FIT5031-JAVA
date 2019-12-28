@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Validation
+comment0.text=\n\ The\ validation\ class\ which\ validates\ information\n\n\ @author\ Farhad\ Ullah\ Rezwan\n\ @version\ 1.0\ (1.6.2019)\n
+comment1.params=
+comment1.target=Validation()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Validation\n
+comment2.params=number\ max\ min
+comment2.target=boolean\ doubleRange(double,\ double,\ double)
+comment2.text=\n\ Method\ to\ check\ a\ double\ value\ which\ is\ within\ a\ range\ or\ not\n\n\ @param\ double\ a\ double\ number\ for\ which\ the\ check\ is\ done\n\ @param\ max\ a\ double\ number\ which\ represents\ the\ maximum\ value\ for\ range\n\ @param\ min\ a\ double\ number\ which\ represents\ the\ minimum\ value\ for\ range\n\ @return\ a\ boolean\ value\ which\ indicates\ a\ double\ within\ range\ or\ not\n
+comment3.params=number\ max\ min
+comment3.target=boolean\ doubleRangeWithError(double,\ double,\ double)
+comment3.text=\n\ Method\ to\ check\ a\ double\ value\ which\ is\ within\ a\ range\ or\ not\ with\ error\n\n\ @param\ double\ a\ double\ number\ for\ which\ the\ check\ is\ done\n\ @param\ max\ a\ double\ number\ which\ represents\ the\ maximum\ value\ for\ range\n\ @param\ min\ a\ double\ number\ which\ represents\ the\ minimum\ value\ for\ range\n\ @return\ a\ boolean\ value\ which\ indicates\ a\ double\ within\ range\ or\ not\n
+comment4.params=number\ max\ min
+comment4.target=boolean\ numberRange(int,\ int,\ int)
+comment4.text=\n\ Method\ to\ check\ a\ number\ which\ is\ within\ a\ range\ or\ not\n\n\ @param\ number\ a\ number\ for\ which\ the\ check\ is\ done\n\ @param\ max\ a\ number\ which\ represents\ the\ maximum\ value\ for\ range\n\ @param\ min\ a\ number\ which\ represents\ the\ minimum\ value\ for\ range\n\ @return\ a\ boolean\ value\ which\ indicates\ a\ number\ within\ range\ or\ not\n
+comment5.params=number\ max\ min
+comment5.target=boolean\ numberRangeWithError(int,\ int,\ int)
+comment5.text=\n\ Method\ to\ check\ a\ number\ which\ is\ within\ a\ range\ or\ not\ with\ error\ message\n\n\ @param\ number\ a\ number\ for\ which\ the\ check\ is\ done\n\ @param\ max\ a\ number\ which\ represents\ the\ maximum\ value\ for\ range\n\ @param\ min\ a\ number\ which\ represents\ the\ minimum\ value\ for\ range\n\ @return\ a\ boolean\ value\ which\ indicates\ a\ number\ within\ range\ or\ not\n
+comment6.params=string
+comment6.target=boolean\ stringIsBlank(java.lang.String)
+comment6.text=\n\ Method\ to\ check\ a\ string\ is\ blank\ or\ not\n\n\ @param\ String\ a\ string\ for\ which\ the\ check\ is\ done\n\ @return\ a\ boolean\ value\ to\ indicate\ a\ string\ is\ blank\ or\ not\n
+comment7.params=x\ array
+comment7.target=boolean\ hasIntInArray(int,\ int[])
+comment7.text=\n\ Method\ to\ check\ weather\ an\ integer\ included\ in\ an\ array\ or\ not\n\n\ @param\ x\ an\ integer\ for\ which\ the\ check\ is\ done\n\ @param\ array\ an\ array\ for\ which\ the\ check\ is\ done\n\ @return\ a\ boolean\ value\ to\ indicate\ a\ string\ is\ blank\ or\ not\n
+numComments=8

@@ -1,0 +1,87 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/3b/st_xyjd526q8vd1czvyn0_z00000gn/T/AppTranslocation/9C525FA5-27AC-4FE5-89FB-F9B1A76E799F/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship
+-d
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java
+<---- end of javadoc command ---->
+Loading source file /Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java...
+Constructing Javadoc information...
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:14: error: cannot find symbol
+    private ListOfDrivers drivers;
+            ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:15: error: cannot find symbol
+    private ListOfVenues venues;
+            ^
+  symbol:   class ListOfVenues
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:32: error: cannot find symbol
+    public Championship(ListOfDrivers newDrivers, ListOfVenues newVenues)
+                        ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:32: error: cannot find symbol
+    public Championship(ListOfDrivers newDrivers, ListOfVenues newVenues)
+                                                  ^
+  symbol:   class ListOfVenues
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:43: error: cannot find symbol
+    public ListOfDrivers getDrivers()
+           ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:53: error: cannot find symbol
+    public ListOfVenues getVenues()
+           ^
+  symbol:   class ListOfVenues
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:91: error: cannot find symbol
+    public ListOfDrivers sortForGridDrivers()
+           ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:137: error: cannot find symbol
+    public void reNewListOfDrivers(ListOfDrivers newListOfDrivers)
+                                   ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:229: error: cannot find symbol
+    public ListOfVenues userSelectedVenues(int[] newSelectedVenues)
+           ^
+  symbol:   class ListOfVenues
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:464: error: cannot find symbol
+    public void setDrivers(ListOfDrivers newDrivers)
+                           ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:474: error: cannot find symbol
+    public void setVenues(ListOfVenues newVenues)
+                          ^
+  symbol:   class ListOfVenues
+  location: class Championship
+/Users/farhadullahrezwan/Desktop/(5:100) 1 june 20% Java Assignment 2 12 th week/Formula9131GrandPrixChampionship/Championship.java:544: error: cannot find symbol
+    public ListOfDrivers sortForVenues()
+           ^
+  symbol:   class ListOfDrivers
+  location: class Championship
+12 errors

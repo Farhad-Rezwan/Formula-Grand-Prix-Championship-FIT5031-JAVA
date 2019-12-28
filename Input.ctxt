@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\n\ The\ Input\ class\ helps\ to\ interact\ with\ the\ user/organizer\ of\ championship.\n\n\ @author\ Farhad\ Ullah\ Rezwan\n\ @version\ 1.0\ (1.6.2019)\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Input\n
+comment2.params=displayMessage
+comment2.target=java.lang.String\ acceptStringInput(java.lang.String)
+comment2.text=\n\ Method\ that\ helps\ to\ accept\ string\ input\n\n\ @param\ displayMessage\ message\ that\ is\ displayed\ in\ the\ screen\n\ @return\ a\ string\ that\ user\ insert\ using\ keyboard\n
+comment3.params=displayMessage
+comment3.target=int\ acceptIntegerInput(java.lang.String)
+comment3.text=\n\ Method\ that\ helps\ to\ accept\ integer\ input\n\n\ @param\ displayMessage\ message\ that\ is\ displayed\ in\ the\ screen\n\ @return\ an\ integer\ that\ user\ insert\ using\ keyboard\n
+comment4.params=displayMessage
+comment4.target=java.lang.String\ acceptAnyInput(java.lang.String)
+numComments=5
